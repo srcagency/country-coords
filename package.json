@@ -1,0 +1,13 @@
+{
+	"name": "country-coords",
+	"description": "Latitude and longitude (GPS coordinates) for all ISO 3166-1 countries",
+	"version": "1.0.0",
+	"repository": "srcagency/country-latlon",
+	"scripts": {
+		"test": "node test"
+	},
+	"devDependencies": {
+		"iso-3166-1-codes": "^1.0.0",
+		"tape": "^4.6.3"
+	}
+}
